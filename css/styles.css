@@ -61,3 +61,7 @@ body {
 
 .modal .modal-dialog .modal-content .modal-body {
   background: #D1C4E9; }
+
+#myFace {
+  border-radius: 50%;
+}
